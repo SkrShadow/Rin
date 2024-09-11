@@ -49,7 +49,7 @@ Rin is a blog based on Cloudflare Pages + Workers + D1 + R2. It does not require
 # License
 ```
 MIT License
-
+ 
 Copyright (c) 2024 Xeu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
